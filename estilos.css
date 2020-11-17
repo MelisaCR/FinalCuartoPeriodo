@@ -1,0 +1,966 @@
+body{
+	background: url(fondo.jpg);
+	font-family: cursive;
+}
+
+.parte1{
+	position: absolute;
+	width: 80%;
+	height: 90%;
+	display: block;
+	margin-left: 10%;
+	margin-top: 1%;
+
+	display: block;
+}
+
+.imagenpicapiedras{
+	position: absolute;
+	width: 100%;
+	height: 110%;
+	margin-left: 0%;
+	margin-top: -2%;
+}
+
+.nombre{
+	position: absolute;
+	width: 90%;
+	height: 20%;
+	display: block;
+	margin-left: 5%;
+	margin-top: 1%;
+}
+
+
+.banner{
+	width: 100%;
+	height: 120%;
+	position: relative;
+}
+
+.aninicio{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: block;
+	margin-left: 25%;
+	margin-top: 13%;
+	
+}
+
+.play{
+	width: 10%;
+	height: 20%;
+	position: absolute;
+	margin-top: 38%;
+	margin-left: 45%;
+	display: block;
+}
+
+.play:hover{
+	width: 12%;
+	height: 22%;
+	margin-top: 37%;
+	margin-left: 44%;
+}
+
+.anip1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: block;
+	margin-left: 25%;
+	margin-top: 7%;
+
+}
+
+.anitierra{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+
+}
+
+.anizoom{
+
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+.fotoestrella{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+
+}
+
+.fototierra{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+.parte2{
+	position: absolute;
+	width: 80%;
+	height: 90%;
+	display: block;
+	margin-left: 10%;
+	margin-top: 1%;
+}
+
+
+
+
+.flechaizq{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 25%;
+	margin-left: 27%;
+}
+
+.flechaizq:hover{
+	width: 6%;
+	height: 11%;
+	margin-left: 26%;
+
+}
+.flechader{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 25%;
+	margin-left: 67%;
+}
+
+.flechader:hover{
+	width: 6%;
+	height: 11%;
+	margin-left: 68%;
+
+}
+
+
+
+.repro{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 35%;
+	margin-left: 47%;
+	display: block;
+
+}
+
+.repro:hover{
+	width: 7%;
+	height: 12%;
+	margin-left: 46%;
+}
+
+.repro2{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 35%;
+	margin-left: 49%;
+	display: block;
+
+}
+
+.repro2:hover{
+	width: 7%;
+	height: 12%;
+	margin-left: 48%;
+}
+
+
+.rueda{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 2%;
+	margin-left: 94%;
+}
+
+.rueda:hover{
+	width: 6%;
+	height: 11%;
+	margin-left: 93%;
+
+}
+
+
+
+.cuentoboton{
+	position: absolute;
+	margin-top: 40%;
+	margin-left: 40%;
+	width: 18%;
+	height: 20%;
+	text-align: center;
+	display: none;
+}
+
+.cuentoboton:hover{
+	width: 20%;
+	height: 22%;
+	margin-left: 39%;
+	
+
+}
+
+.marco{
+	position: absolute;
+	width: 53%;
+	height: 82%;
+	margin-top: 5%;
+	margin-left: 23%;
+
+}
+
+.marco1{
+	position: absolute;
+	width: 53%;
+	height: 82%;
+	margin-top: 10%;
+	margin-left: 23%;
+}
+
+.volver{
+	position: absolute;
+	margin-top: 42%;
+	margin-left: 5%;
+	width: 12%;
+	height: 15%;
+
+}
+
+.volver:hover{
+	width: 14%;
+	height: 17%;
+	margin-left: 4%;
+
+}
+
+.volver1{
+	position: absolute;
+	margin-top: 30%;
+	margin-left: 45%;
+	width: 12%;
+	height: 15%;
+	display: none;
+}
+
+.volver1:hover{
+	width: 14%;
+	height: 17%;
+	margin-left: 44%;
+
+}
+
+
+
+.anientra1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+
+
+.paisaje{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: block;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+.quieto1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+
+
+
+
+.anientra2{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.quietos{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.stop{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.stop2{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: block;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+
+.fotocaida{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+.habla1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.ojosgrandes{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.habla2{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.pasam{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+
+}
+
+.grandem{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+
+}
+
+.fotograndem{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.corren{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.fotocorren{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+
+
+.vuelan{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+.fotovuelan{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+/*parte2*/
+
+.fondop1{
+	position: absolute;
+	width: 110%;
+	height: 114%;
+	margin-left: -5%;
+	margin-top: -3.5%;
+}
+
+.marconarrador{
+	position: absolute;
+	width: 80%;
+	height: 32%;
+	margin-left: 15%;
+	margin-top: -1.8%;
+
+}
+
+.daleclic{
+	position: absolute;
+	width: 20%;
+	height: 50%;
+	margin-top: 15%;
+	margin-left: 40%;
+	display: none;
+}
+
+.clic101{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 45%;
+	margin-top: 20%;
+}
+
+.clic101:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 44%;
+}
+
+.clic102{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 45%;
+	margin-top: 20%;
+}
+
+.clic102:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 44%;
+}
+
+
+
+.flechaizq2{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 30%;
+	margin-left: 27%;
+}
+
+.flechaizq2:hover{
+	width: 6%;
+	height: 11%;
+	margin-left: 26%;
+
+}
+.flechader2{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 30%;
+	margin-left: 67%;
+}
+
+.flechader2:hover{
+	width: 6%;
+	height: 11%;
+	margin-left: 68%;
+
+}
+/*pagina 2*/
+.fondop2{
+	position: absolute;
+	width: 110%;
+	height: 114%;
+	margin-left: -5%;
+	margin-top: -3.5%;
+}
+
+.clic201{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: block;
+	margin-left: 63%;
+	margin-top: 35%;
+}
+
+.clic201:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 62%;
+}
+
+.clic202{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 27%;
+	margin-top: 35%;
+}
+
+.clic202:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 26%;
+}
+
+.clic203{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 53%;
+	margin-top: 35%;
+}
+
+.clic203:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 52%;
+}
+.clic204{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 35%;
+	margin-top: 35%;
+}
+
+.clic204:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 34%;
+}
+
+.daleclic1{
+	position: absolute;
+	width: 20%;
+	height: 50%;
+	margin-top: 15%;
+	margin-left: 40%;
+	display: none;
+}
+
+/*pagina 3(parte2)*/
+.fondop3{
+	position: absolute;
+	width: 110%;
+	height: 114%;
+	margin-left: -5%;
+	margin-top: -3.5%;
+}
+
+.clic301{
+	position: absolute;
+	width: 10%;
+	height: 20%;
+	display: none;
+	margin-left: 45%;
+	margin-top: 30%;
+}
+
+.clic301:hover{
+	width: 12%;
+	height: 22%;
+	margin-left: 44%;
+}
+
+.clic302{
+	position: absolute;
+	width: 10%;
+	height: 20%;
+	display: none;
+	margin-left: 45%;
+	margin-top: 33%;
+}
+
+.clic302:hover{
+	width: 12%;
+	height: 22%;
+	margin-left: 44%;
+}
+
+.clic303{
+	position: absolute;
+	width: 10%;
+	height: 20%;
+	display: none;
+	margin-left: 45%;
+	margin-top: 33%;
+}
+
+.clic303:hover{
+	width: 12%;
+	height: 22%;
+	margin-left: 44%;
+}
+
+.daleclic2{
+	position: absolute;
+	width: 20%;
+	height: 50%;
+	margin-top: 15%;
+	margin-left: 40%;
+	display: none;
+}
+
+/*pag4*/
+.fondop4{
+	position: absolute;
+	width: 110%;
+	height: 114%;
+	margin-left: -5%;
+	margin-top: -3.5%;
+}
+
+.clic401{
+	position: absolute;
+	width: 10%;
+	height: 18%;
+	display: block;
+	margin-left: 64%;
+	margin-top: 33%;
+}
+
+.clic401:hover{
+	width: 12%;
+	height: 20%;
+	margin-left: 63%;
+}
+
+.anientrazul{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: block;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+
+.clic402{
+	position: absolute;
+	width: 10%;
+	height: 18%;
+	display: none;
+	margin-left: 24%;
+	margin-top: 33%;
+}
+
+.clic402:hover{
+	width: 12%;
+	height: 20%;
+	margin-left: 23%;
+}
+
+.anientraorange{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.clic403{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 55%;
+	margin-top: 35%;
+}
+
+.clic403:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 54%;
+}
+
+.anihablazul1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.clic404{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 34%;
+	margin-top: 35%;
+}
+
+.clic404:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 33%;
+}
+
+.anihablaorange1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.anihablaorange2{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.anihablazul2{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+	
+}
+
+.clic405{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 55%;
+	margin-top: 35%;
+}
+
+.clic405:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 54%;
+}
+
+.clic406{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 34%;
+	margin-top: 35%;
+}
+
+.clic406:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 33%;
+}
+
+.clic407{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 8%;
+}
+
+.clic407:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 24%;
+}
+
+.anientravolador{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+.clic408{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 53%;
+	margin-top: 35%;
+}
+
+.clic408:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 52%;
+}
+
+.anihablazul3{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+.clic409{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 36%;
+	margin-top: 18%;
+}
+
+.clic409:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 35%;
+}
+
+.anihablavolador1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+.clic410{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 35%;
+	margin-top: 35%;
+}
+
+.clic410:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 34%;
+}
+
+.anihablaorange3{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
+
+.clic411{
+	position: absolute;
+	width: 8%;
+	height: 14%;
+	display: none;
+	margin-left: 45%;
+	margin-top: 30%;
+}
+
+.clic411:hover{
+	width: 10%;
+	height: 16%;
+	margin-left: 44%;
+}
+
+.anifin{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 7%;
+}
